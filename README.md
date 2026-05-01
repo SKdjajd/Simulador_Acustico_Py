@@ -45,8 +45,8 @@ Ver [requirements.txt](requirements.txt) para detalles.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/simulador-acustico-pro.git
-   cd simulador-acustico-pro
+   git clone https://github.com/SKdjajd/Simulador_Acustico_Py
+   cd simulador-acustico-py
    ```
 
 2. Crea un entorno virtual (recomendado):
@@ -76,17 +76,13 @@ Abre http://localhost:8501 en tu navegador.
 
 | Archivo | Descripción |
 |---------|-------------|
-| `app.py` | Interfaz principal Streamlit (ex `Sist. Audio.py`). |
+| `app.py` | Interfaz principal Streamlit. |
 | `utils_acustica.py` | Lógica física acústica y matemáticas. |
 | `requirements.txt` | Dependencias. |
 | `LICENSE` | Licencia MIT. |
 | `README.md` | Este archivo. |
 
 ## 📱 Demo
-
-<!-- Agrega aquí un GIF o video demo. Ejemplo: -->
-<!-- ![Demo](demo.gif) -->
-
 Ejecuta localmente para probar interactivamente.
 
 ## 📄 Licencia
@@ -95,7 +91,7 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE) - ver archivo [LIC
 
 ## 🤝 Contribuciones
 
-¡Pull requests bienvenidos! Para cambios grandes, abre un [issue](https://github.com/TU_USUARIO/simulador-acustico-pro/issues) primero.
+¡Pull requests bienvenidos! Para cambios grandes, abre un https://github.com/SKdjajd/Simulador_Acustico_Py/issues primero.
 
 1. Fork el proyecto.
 2. Crea tu feature branch (`git checkout -b feature/AlgoAñadido`).
@@ -105,7 +101,4 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE) - ver archivo [LIC
 
 ## 👨‍💻 Autor
 
-- **Tu Nombre** - *Ingeniero de Sonido* - [Tu GitHub](https://github.com/TU_USUARIO)
-
-*Hecho con ❤️ en Python para Ingeniería de Sonido Profesional y Arquitectura.*
-
+- 4notherN00b (https://github.com/SKdjajd)
